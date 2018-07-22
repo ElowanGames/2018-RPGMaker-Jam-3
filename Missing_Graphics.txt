@@ -1,2 +1,15 @@
 Graphics/Battlers/Mei
 Graphics/Battlers/Mei
+Graphics/Battlers/Mei
+Graphics/Battlers/$Swordman
+Graphics/Battlers/Mei
+Graphics/Battlers/$Swordman
+Graphics/Pictures/Backdrop/TestBack
+Graphics/Battlers/Mei_MINI
+Graphics/Battlers/$Swordman_MINI
+Graphics/Battlers/Mei
+Graphics/Pictures/Backdrop/TestBack
+Graphics/Battlers/Mei_MINI
+Graphics/Battlers/$Assassin_MINI
+Graphics/Battlers/$Assassin_down
+Graphics/Pictures/GTBS/wait6
