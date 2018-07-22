@@ -44,3 +44,11 @@ Graphics/Pictures/Backdrop/TestBack
 Graphics/Battlers/Actor2_MINI
 Graphics/Battlers/$Assassin_MINI
 Graphics/Battlers/$Assassin_down
+Graphics/Pictures/Backdrop/TestBack
+Graphics/Battlers/$Assassin_MINI
+Graphics/Battlers/Actor2_MINI
+Graphics/Battlers/$Assassin_down
+Graphics/Pictures/Backdrop/TestBack
+Graphics/Battlers/$Assassin_MINI
+Graphics/Battlers/Actor2_MINI
+Graphics/Pictures/GTBS/wait6
