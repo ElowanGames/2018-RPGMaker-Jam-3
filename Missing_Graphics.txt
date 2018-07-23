@@ -291,3 +291,12 @@ Graphics/Battlers/$orion_MINI
 Graphics/Pictures/GTBS/wait6
 Graphics/Battlers/$cloaky_down
 Graphics/Battlers/$Elisabeth_MINI
+Graphics/Pictures/Backdrop/TestBack
+Graphics/Battlers/$pprincess_MINI
+Graphics/Battlers/$cloaky_MINI
+Graphics/Pictures/GTBS/wait8
+Graphics/Battlers/$Elisabeth_MINI
+Graphics/Battlers/$cloaky_down
+Graphics/Battlers/$orion_MINI
+Graphics/Pictures/GTBS/wait4
+Graphics/Pictures/GTBS/wait6
