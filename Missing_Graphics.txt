@@ -300,3 +300,14 @@ Graphics/Battlers/$cloaky_down
 Graphics/Battlers/$orion_MINI
 Graphics/Pictures/GTBS/wait4
 Graphics/Pictures/GTBS/wait6
+Graphics/Pictures/GTBS/wait4
+Graphics/Pictures/GTBS/wait8
+Graphics/Pictures/GTBS/wait2
+Graphics/Pictures/Backdrop/TestBack
+Graphics/Battlers/$General_MINI
+Graphics/Battlers/$pprincess_MINI
+Graphics/Battlers/$knight_MINI
+Graphics/Battlers/$orion_MINI
+Graphics/Battlers/$Elisabeth_MINI
+Graphics/Battlers/$knight_down
+Graphics/Pictures/GTBS/wait6
