@@ -318,3 +318,8 @@ Graphics/Pictures/GTBS/wait6
 Graphics/Battlers/$cloaky_down
 Graphics/Pictures/GTBS/wait4
 Graphics/Pictures/GTBS/wait8
+Graphics/Pictures/Backdrop/TestBack
+Graphics/Battlers/$cloaky_MINI
+Graphics/Battlers/$pprincess_MINI
+Graphics/Pictures/GTBS/wait6
+Graphics/Battlers/$cloaky_down
