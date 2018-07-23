@@ -1,13 +1,16 @@
-(eval):1:in `eval' :  (eval):1: no .<digit> floating literal anymore; put 0 before dot
-(a.atk * 4 - b.def * 2)*.5
-                         ^
-(eval):1: syntax error, unexpected '.'
-(a.atk * 4 - b.def * 2)*.5
-                         ^  (SyntaxError) 
-	from (eval):1:in `eval'
-	from Game_Battler:352:in `make_damage_value'
-	from [GTBS] Game_Battler-C:1069:in `make_damage_value'
-	from Game_Battler:509:in `item_apply'
+[GTBS] Game_Enemy:444:in `block in refresh' :  undefined local variable or method `pass' for #<Game_Enemy:0xf7808ac>  (NameError) 
+	from [GTBS] Game_Enemy:442:in `each'
+	from [GTBS] Game_Enemy:442:in `refresh'
+	from Game_Battler:115:in `add_new_state'
+	from Game_Battler:83:in `add_state'
+	from [GTBS] Game_Battler-C:1882:in `add_state'
+	from Game_BattlerBase:504:in `refresh'
+	from [GTBS] Game_Enemy:439:in `refresh'
+	from Game_BattlerBase:464:in `hp='
+	from Game_Battler:407:in `execute_damage'
+	from VE - Damage Popup:452:in `execute_damage'
+	from [GTBS] Game_Battler-C:1081:in `execute_damage'
+	from Game_Battler:510:in `item_apply'
 	from VE - Damage Popup:417:in `item_apply'
 	from [GTBS] Process Action:512:in `deal_dmg'
 	from [GTBS] Action Animation:309:in `block in action_damage'
